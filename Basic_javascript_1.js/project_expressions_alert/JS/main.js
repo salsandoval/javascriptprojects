@@ -22,3 +22,5 @@ document.write(Mom);
 
 6 + 6
 document.write(6+6);
+
+
