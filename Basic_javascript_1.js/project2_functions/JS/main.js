@@ -9,3 +9,10 @@ function myFunction() { // used += to concatenate str
     sentence += " YOU REBEL!";
     document.getElementById("concatenate") .innerHTML = sentence;
 }
+
+function myFunction() {
+    var whatshesaid = "Thats what she said";
+    document.getElementById("whatshesaid") .innerHTML = whatshesaid;
+}
+
+ 
