@@ -74,6 +74,6 @@ function operators4() {//OR operator displaying true
 }
 
 function not_Function() {// this code is not working can you please check it and let me know what i am doing wrong?
-    document.getElementById("Not").innerHTMl = ! (5 > 10);
+    document.getElementById("Not").innerHTML = ! (5 > 10);
 }
 
