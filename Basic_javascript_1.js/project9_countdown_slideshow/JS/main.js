@@ -1,5 +1,5 @@
 function countdown() {//count down timer by seconds program keeps returning NaN idk why.
-    var seconds = document.getElementById("seconds").Value;
+    var seconds = document.getElementById("seconds").value;
 
     function tick() {
         seconds = seconds - 1;
